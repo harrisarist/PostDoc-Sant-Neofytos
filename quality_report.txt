@@ -1,0 +1,30 @@
+Neophytos Corpus — Quality Report
+============================================================
+Pipeline version : 1.0.0
+Source           : Stefanis 1996
+Total rows       : 457
+
+Rows per Λόγος:
+  Α΄         1 rows
+  Β΄         6 rows
+  Γ΄        28 rows
+  Δ΄        45 rows
+  Ε΄        58 rows
+  ΣΤ΄       38 rows
+  Ζ΄        61 rows
+  Η΄        88 rows
+  Θ΄        65 rows
+  Ι΄        67 rows
+
+Sections with token_count > 512  (exceeds typical model context limit):
+  id=138  logos=Ε΄  section=§58  tokens=517
+
+Traceability (logos + section must be populated):
+  MISSING SECTION  id=1  logos=Α΄
+
+Incomplete rows (text=NULL or partial): 2
+  id=1  logos=Α΄  section=  partial=False
+  id=2  logos=Β΄  section=§1  partial=True
+
+Encoding warnings: 0
+  None.

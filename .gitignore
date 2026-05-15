@@ -1,0 +1,15 @@
+# PDF source — not included (copyright, Stefanis 1996)
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor
+.vscode/
+.idea/
+*.swp
