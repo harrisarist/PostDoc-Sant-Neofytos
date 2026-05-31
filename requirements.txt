@@ -2,3 +2,5 @@ pdfplumber==0.11.9
 pandas==3.0.3
 pytest==8.3.5
 pytest-cov==6.1.0
+anthropic>=0.50.0
+tqdm>=4.66.0
