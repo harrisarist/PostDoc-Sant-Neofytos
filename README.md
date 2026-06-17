@@ -22,6 +22,26 @@ from a local path passed as a CLI argument.
 
 ---
 
+## PhD Dissertation
+
+This repository also hosts the author's PhD dissertation, which the postdoctoral
+project builds upon. Unlike the Primary Source PDF above, this is the author's own
+work and is therefore not subject to third-party copyright restrictions.
+
+| Field | Value |
+|---|---|
+| Title | Ο Άγιος Νεόφυτος ο Έγκλειστος και η χρήση της Αγίας Γραφής στα συγγράμματά του — Συγκριτική αποτύπωση και στατιστική ανάλυση με τη χρήση υπολογιστικής επεξεργασίας |
+| Author | Charalambos (Harris) Aristotelous |
+| Institution | University of Nicosia |
+| Year | 2023 |
+
+The PDF (432 pages, including figures) is split into two parts in `docs/`:
+
+- [Part 1 (pp. 1–216)](docs/PHD-AGIOS-NEOFYTOS-V5-part1.pdf)
+- [Part 2 (pp. 217–432)](docs/PHD-AGIOS-NEOFYTOS-V5-part2.pdf)
+
+---
+
 ## Corpus Overview
 
 The work comprises 10 Discourses (Λόγοι), structured as numbered sections (§§):
