@@ -207,4 +207,4 @@ If you use this corpus or pipeline in your research, please cite:
 > Aristotelous, H. (2026). *Computational corpus of Neophytos the Recluse's
 > Ten Discourses on Christ's Commandments* (Stefanis 1996 edition).
 > Preprocessing pipeline v1.0.0.
-> https://github.com/harrisarist/PostDoc-Sant-Neofytos
+> https://github.com/harrisarist/PostDoc-Saint-Neofytos
